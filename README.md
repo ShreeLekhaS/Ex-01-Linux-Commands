@@ -1,6 +1,6 @@
 # Ex-01-Linux-Commands
-## Name:  Shree Lekha S
-## Reg No : 212223110052
+#### Name:  Shree Lekha S
+#### Reg No : 212223110052
 
 ## Aim:
 
